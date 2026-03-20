@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "LTM Time UI Clone",
+    "slug": "ltm-time-ui-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
